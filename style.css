@@ -1,0 +1,17 @@
+#top, #bottom {
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+#top {
+    top: 0;
+    background-color: lightgray;
+    height: 30%;
+}
+
+#bottom {
+    bottom: 0;
+    background-color: darkgrey;
+    height: 70%;
+}
